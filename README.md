@@ -1,12 +1,13 @@
 ## Hello everyone!
------------------------------------------
-### ✨Introduction ✨
+👩‍🎓I am Anjali, an undergraduate Electonic and communication engineering student in SOA University. 
 
-I am Anjali, an undergraduate student.
+### 📚About me
+- Self-taught data analyst.
+- Building minor projects on Machine learning.
+- Learning & Practicing Data Structured Algorithm in Java.
+- Skilled communicator.
 
-Currently working on data analytics projects.
 
-
-**💡 Tools I work on:** SQL, Python, Tableau
+**💡  ls I work on:** SQL, Python, Tableau
 
 **💡 Skills:** Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
