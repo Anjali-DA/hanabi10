@@ -8,10 +8,10 @@
 - Skilled communicator.
 
 ### 📚Experties/Skills
-**Advanced:** MySQL, Tableau, & Excel
+**✨Advanced✨ :** MySQL, Tableau, & Excel
 
-**Intermediate:** Python, & Java
+**✨Intermediate✨ :** Python, & Java
 
-**Beginner:** Machine Learning
+**✨Beginner✨ :** Machine Learning
 
 
