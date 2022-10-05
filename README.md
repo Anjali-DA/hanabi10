@@ -9,15 +9,14 @@
 
 ### 📚Experties/Skills
 - **Advanced:** MySQL, Tableau, & Excel
-
 - **Intermediate:** Python, & Java
-
 - **Beginner:** Machine Learning
 
 ### 📚Currently
 - Course: Finance modelling & analysis & google data analytics
 - Brushing up on data cleaning, wrangling & visualization skills using Python on Kaggle platform
-- Case study on MySQL
+- Case study on MySQL [Click Here](https://github.com/hanabi10/8-Week-SQL-Challenge)
+- DSA bootcamp Java from **Community classroom**.
 - Building visualizations in Tableu.
 
 ### Connect with me😄
