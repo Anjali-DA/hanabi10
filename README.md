@@ -20,7 +20,7 @@
 - Case study on MySQL
 - Building visualizations in Tableu.
 
-## ✨Connect with me✨
+### Connect with me😄
 - [LinkedIn](https://www.linkedin.com/in/anjali-pant01/)
 - [Twitter](https://twitter.com/AnjaliPant)
 - [Kaggle](https://www.kaggle.com/pantanjali)
