@@ -7,9 +7,11 @@
 - Learning & Practicing Data Structured Algorithm in Java.
 - Skilled communicator.
 
-### 📚Experties
+### 📚Experties/Skills
 **Advanced:** MySQL, Tableau, & Excel
+
 **Intermediate:** Python, & Java
+
 **Beginner:** Machine Learning
 
-**💡 Skills:** Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
+
